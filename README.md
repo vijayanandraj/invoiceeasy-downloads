@@ -4,7 +4,7 @@ Offline billing and inventory for Indian small businesses.
 
 ## Download for Windows
 
-[Download the latest Windows installer](https://github.com/vijayanandraj/invoiceeasy-downloads/releases/latest/download/invoiceeasy-Setup-0.1.1.exe) · [All releases](https://github.com/vijayanandraj/invoiceeasy-downloads/releases)
+[Download the latest Windows installer](https://github.com/vijayanandraj/invoiceeasy-downloads/releases/latest) · [All releases](https://github.com/vijayanandraj/invoiceeasy-downloads/releases)
 
 Supports Windows 10/11, 64-bit. No GitHub account is required to download. Run the installer, then set up your shop on first launch. Node.js, Go and Python are not required.
 

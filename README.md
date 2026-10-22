@@ -17,7 +17,7 @@ The installer is unsigned, so Windows may display a publisher or SmartScreen war
 - A4, 58 mm and 80 mm print layouts.
 - Local SQLite database and backups; copy backups to a Google Drive for desktop folder.
 
-Billing works offline. Google Drive backup syncing requires connectivity and Google Drive for desktop. Optional OCR tools are not bundled.
+Billing works offline. Google Drive backup syncing requires connectivity and Google Drive for desktop. Version 0.2.1 and later include English photo OCR for PNG/JPEG purchase bills, with no separate Tesseract installation. Scanned PDF pages must first be exported as photos.
 
 ## Updating or starting fresh
 
